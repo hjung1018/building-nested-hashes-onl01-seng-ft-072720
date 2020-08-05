@@ -23,5 +23,5 @@ epic_tragedy = {
   
 end
 
-fourth_challenge[:hero[:status]] = "dead"
-fourth_challenge[:hero[:status]] = "dead"
+montague[:hero[:status]] = "dead"
+capulet[:hero[:status]] = "dead"
