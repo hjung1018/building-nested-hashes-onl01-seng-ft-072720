@@ -22,3 +22,5 @@ epic_tragedy = {
 }
   
 end
+
+fourth_challenge[:hero[:status]] = "dead"
