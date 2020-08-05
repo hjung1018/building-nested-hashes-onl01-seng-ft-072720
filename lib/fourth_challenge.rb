@@ -19,6 +19,8 @@ epic_tragedy = {
           {name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
+   montague[:hero][:status] = "dead"
+capulet[:heroine][:status] = "dead"
 }
   
 end
